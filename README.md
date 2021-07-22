@@ -6,10 +6,10 @@
 - [수업 소개 페이지 ↗️](https://www.notion.so/modulabs/TF-Master-TF-aa8d18073e1646a1becf19fb7bb1d694)
 
 ### 수업 자료
-|Week|Topic|Notebook|
-|:--:|--|:--:|
-|1|Image Classification|[📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf01_image_classification.ipynb)|
-|2|Text Classification||
+|Week|Topic|Tutorial|Notebook|
+|:--:|--|:--:|:--:|
+|1|Image Classification|[🔗](https://www.tensorflow.org/tutorials/keras/classification)|[📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf01_image_classification.ipynb)|
+|2|Text Classification|[🔗](https://www.tensorflow.org/tutorials/keras/text_classification)|[📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf02_text_classification.ipynb)|
 |3|Regression||
 |4|Save and Load Models||
 |5|Overfit and Underfit||
