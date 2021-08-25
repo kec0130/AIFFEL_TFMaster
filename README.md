@@ -16,5 +16,5 @@
 |  3   | Regression                 |      [🔗](https://www.tensorflow.org/tutorials/keras/regression)      |      [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf03_regression.ipynb)      |
 |  4   | Save and Load Models       |    [🔗](https://www.tensorflow.org/tutorials/keras/save_and_load)     |    [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf04_save_and_load.ipynb)     |
 |  5   | Overfit and Underfit       | [🔗](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit) | [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf05_overfit_and_underfit.ipynb) |
-|  6   | Load and Preprocess Images |                                                                       |
+|  6   | Load and Preprocess Images |      [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
 |  7   | The Functional API         |                                                                       |
